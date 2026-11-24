@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="شعار الإدارة">
+  <rect width="120" height="120" rx="26" fill="#12263f"/>
+  <circle cx="60" cy="60" r="38" fill="none" stroke="#c8993a" stroke-width="6"/>
+  <circle cx="60" cy="60" r="7" fill="#c8993a"/>
+  <g fill="#c8993a">
+    <circle cx="60" cy="36" r="6.5"/><circle cx="83" cy="53" r="6.5"/>
+    <circle cx="74" cy="80" r="6.5"/><circle cx="46" cy="80" r="6.5"/>
+    <circle cx="37" cy="53" r="6.5"/>
+  </g>
+  <path d="M18 104h84" stroke="#c8993a" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+</svg>
